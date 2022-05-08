@@ -1,0 +1,9 @@
+name: tf_env
+channels:
+  - defaults
+dependencies:
+  - pip
+  - python
+  - requests
+  - seaborn
+  - tensorflow
