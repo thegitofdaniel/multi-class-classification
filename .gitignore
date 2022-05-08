@@ -57,4 +57,4 @@ dkms.conf
 *.tar
 *.tar.gz
 *.parquet
-data/*
+data/
